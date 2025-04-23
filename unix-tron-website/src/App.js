@@ -15,7 +15,6 @@ import Careers from './pages/Careers';
 import Portal from './pages/Portal';
 import CaseStudies from './pages/CaseStudies';
 import NotFound from './pages/NotFound';
-import '@fontsource/montserrat'; // Optional: import specific weights too
 
 
 // Your web app's Firebase configuration
